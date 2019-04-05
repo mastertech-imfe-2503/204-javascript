@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.quadrado {
+    background-color: blue;
+    border: 1px solid black;
+    height: 300px;
+    margin: 20px;
+    opacity: 0;
+    transition: 1s;
+    width: 300px;
+}
+
+.fundo-vermelho {
+    background-color: red;
+    opacity: 1;
+}

@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.quadrado {
+    border: 1px solid black;
+    height: 300px;
+    margin: 20px;
+    width: 300px;
+}
+
+.fundo-vermelho {
+    background-color: red;
+}
